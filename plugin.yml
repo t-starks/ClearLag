@@ -4,3 +4,4 @@ version: 1.0.0
 api: 5.0.0
 author: T. Stark
 description: Un plugin para limpiar los ítems tirados en el servidor.
+icon: icon.png
