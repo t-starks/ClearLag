@@ -1,0 +1,6 @@
+name: ClearLag
+main: ClearLag\Main
+version: 1.0.0
+api: [5.0.0]
+author: T. Stark
+description: Un plugin para limpiar los ítems tirados en el servidor.
