@@ -22,7 +22,7 @@ El archivo de configuración `config.yml` se encuentra en la carpeta `resources/
 
 ```yaml
 clear-interval: 120
-clear-message: "§a{count} items eliminados."
+clear-message: "§aItems eliminados."
 warning-message: "§cRecogiendo basura en {time}..."
 broadcast-interval: 15
 broadcast-message: "§bLos ítems serán borrados en {time} segundos."
