@@ -1,6 +1,6 @@
 <?php
 
-namespace ClearLag;
+namespace TStark\ClearLag;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\scheduler\ClosureTask;

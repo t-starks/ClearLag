@@ -1,5 +1,5 @@
 clear-interval: 120
 clear-message: "§aBasura recogida correctamente."
 warning-message: "§cRecogiendo basura en {time}..."
-broadcast-interval: 15
+broadcast-interval: 10
 broadcast-message: "§bLos ítems serán borrados en {time} segundos."
