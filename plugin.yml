@@ -2,6 +2,7 @@ name: ClearLag
 main: ClearLag\Main
 version: 1.0.0
 api: 5.0.0
-author: T. Stark
+author: TStark
+website: https://mcpetools.surge.sh
 description: Un plugin para limpiar los ítems tirados en el servidor.
 icon: icon.png
