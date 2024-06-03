@@ -1,5 +1,5 @@
 name: ClearLag
-main: ClearLag\Main
+main: TStark\ClearLag
 version: 1.0.0
 api: 5.0.0
 author: TStark
