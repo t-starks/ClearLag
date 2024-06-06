@@ -4,5 +4,5 @@ version: 1.0.0
 api: 5.0.0
 author: TStark
 website: https://mcpetools.surge.sh
-description: Un plugin para limpiar los ítems tirados en el servidor.
+description: A plugin to clean items dumped on the server.
 icon: icon.png
