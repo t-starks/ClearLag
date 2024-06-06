@@ -21,10 +21,10 @@ class Main extends PluginBase {
     public function onEnable(): void {
         $this->saveDefaultConfig();
         $this->clearInterval = $this->getConfig()->get("clear-interval", 120);
-        $this->clearMessage = $this->getConfig()->get("clear-message", "§aBasura recogida correctamente.");
-        $this->warningMessage = $this->getConfig()->get("warning-message", "§cRecogiendo basura en {time}...");
+        $this->clearMessage = $this->getConfig()->get("clear-message", "§aGarbage collected correctly.");
+        $this->warningMessage = $this->getConfig()->get("warning-message", "§cPicking up trash in {time}...");
         $this->broadcastInterval = $this->getConfig()->get("broadcast-interval", 15);
-        $this->broadcastMessage = $this->getConfig()->get("broadcast-message", "§bLos ítems serán borrados en {time} segundos.");
+        $this->broadcastMessage = $this->getConfig()->get("broadcast-message", "§bThe items will be deleted in {time} seconds.");
         $this->timeRemaining = $this->clearInterval;
 
         $this->getScheduler()->scheduleRepeatingTask(new ClosureTask(function(): void {
