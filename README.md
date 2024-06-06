@@ -1,4 +1,4 @@
-# ClearLag ![Icon](icon.png)
+# ClearLag ![Icon](/icon.png)
 
 ClearLag is a plugin for PocketMine-MP designed to automatically clean items dumped on the server from time to time. This helps reduce lag and maintain server performance.
 
