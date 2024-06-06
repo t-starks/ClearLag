@@ -1,31 +1,31 @@
 # ClearLag ![Icon](icon.png)
 
-ClearLag es un plugin para PocketMine-MP diseñado para limpiar automáticamente los ítems tirados en el servidor cada cierto tiempo. Esto ayuda a reducir el lag y mantener el rendimiento del servidor.
+ClearLag is a plugin for PocketMine-MP designed to automatically clean items dumped on the server from time to time. This helps reduce lag and maintain server performance.
 
-## Características
+## Characteristics
 
-- Elimina automáticamente los ítems tirados en el servidor en intervalos configurables.
-- Envía un mensaje de advertencia antes de limpiar los ítems.
-- Muestra mensajes periódicos informando sobre el tiempo restante hasta la próxima limpieza.
-- Permite personalizar los mensajes de advertencia y de limpieza.
-- Informa la cantidad de ítems eliminados después de cada limpieza.
+- Automatically deletes items dumped on the server at configurable intervals.
+- Send a warning message before cleaning items.
+- Shows periodic messages informing about the time remaining until the next cleaning.
+- Allows you to customize warning and cleaning messages.
+- Reports the number of items removed after each cleaning.
 
-## Instalación
+## Facility
 
-1. Descarga el plugin y descomprímelo si es necesario.
-2. Coloca la carpeta `ClearLag` en el directorio `plugins` de tu servidor PocketMine-MP.
-3. Inicia o reinicia tu servidor PocketMine-MP para cargar el plugin.
+1. Download the plugin and unzip it if necessary.
+2. Place the `ClearLag` folder in the `plugins` directory of your PocketMine-MP server.
+3. Start or restart your PocketMine-MP server to load the plugin.
 
-## Configuración
+## Setting
 
-El archivo de configuración `config.yml` se encuentra en la carpeta `resources/ClearLag/config.yml`. Puedes editar este archivo para ajustar los intervalos de limpieza y personalizar los mensajes. A continuación se muestra un ejemplo de la configuración predeterminada:
+The configuration file `config.yml` is located in the `resources/ClearLag/config.yml` folder. You can edit this file to adjust cleaning intervals and customize messages. Below is an example of the default configuration:
 
-``` yaml
+```yaml
 clear-interval: 120
-clear-message: "§aItems eliminados."
-warning-message: "§cRecogiendo basura en {time}..."
+clear-message: "§aItems deleted."
+warning-message: "§cCollecting garbage in {time}..."
 broadcast-interval: 15
-broadcast-message: "§bLos ítems serán borrados en {time} segundos."
+broadcast-message: "§bThe items will be deleted in {time} seconds."
 ```
 
 ### 🌐 Web Sites:
