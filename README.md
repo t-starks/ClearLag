@@ -2,6 +2,27 @@
 
 ClearLag is a plugin for PocketMine-MP designed to automatically clean items dumped on the server from time to time. This helps reduce lag and maintain server performance.
 
+## 📊 Stats
+
+<table border="1">
+  <tr>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>API</td>
+    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.state/ClearLag-Mc" alt="API"></a></td>
+  </tr>
+  <tr>
+    <td>Version</td>
+    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.api/ClearLag-Mc" alt="Version"></a></td>
+  </tr>
+  <tr>
+    <td>Downloads</td>
+    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.dl.total/ClearLag-Mc" alt="Downloads"></a></td>
+  </tr>
+</table>
+
 ## Characteristics
 
 - Automatically deletes items dumped on the server at configurable intervals.
