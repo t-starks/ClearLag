@@ -11,11 +11,11 @@ ClearLag is a plugin for PocketMine-MP designed to automatically clean items dum
   </tr>
   <tr>
     <td>API</td>
-    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.state/ClearLag-Mc" alt="API"></a></td>
+    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.api/ClearLag-Mc" alt="Version"></a></td>
   </tr>
   <tr>
     <td>Version</td>
-    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.api/ClearLag-Mc" alt="Version"></a></td>
+    <td><a href="https://poggit.pmmp.io/p/ClearLag-Mc"><img src="https://poggit.pmmp.io/shield.state/ClearLag-Mc" alt="API"></a></td>
   </tr>
   <tr>
     <td>Downloads</td>
